@@ -1,0 +1,6 @@
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_1_1204036\P5_1_1204036\obj\Debug\P5_1_1204036.csproj.AssemblyReference.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_1_1204036\P5_1_1204036\obj\Debug\P5_1_1204036.csproj.CoreCompileInputs.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_1_1204036\P5_1_1204036\bin\Debug\P5_1_1204036.dll
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_1_1204036\P5_1_1204036\bin\Debug\P5_1_1204036.pdb
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_1_1204036\P5_1_1204036\obj\Debug\P5_1_1204036.dll
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P5_1_1204036\P5_1_1204036\obj\Debug\P5_1_1204036.pdb
